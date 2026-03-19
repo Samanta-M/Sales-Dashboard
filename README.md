@@ -53,7 +53,7 @@ Organisations often lack a clear view of sales performance and profitability, le
 
 
 ## 📸 Dashboard Preview
-*(https://github.com/Samanta-M/Sales-Dashboard/blob/main/Superstore_Dashboard.png)*
+(https://github.com/Samanta-M/Sales-Dashboard/blob/main/Superstore_Dashboard.png)
 
 
 ## 🧠 Business Impact
