@@ -6,11 +6,11 @@ An interactive Power BI dashboard was developed to support **data-driven decisio
 
 
 ## 🛠 Tech Stack
-• 📊 Power BI Desktop – Main data visualisation platform used for report creation.
-• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
-• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
-• 📝 Data Modelling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
-• 📁 File Format – .pbix for development and .png for dashboard previews. 
+ 📊 Power BI Desktop – Main data visualisation platform used for report creation.
+ 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+ 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
+ 📝 Data Modelling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
+ 📁 File Format – .pbix for development and .png for dashboard previews. 
 
 
 ## 📂 Data Source
@@ -54,6 +54,7 @@ Organisations often lack a clear view of sales performance and profitability, le
 
 ## 📸 Dashboard Preview
 (https://github.com/Samanta-M/Sales-Dashboard/blob/main/Superstore_Dashboard.png)
+<img width="1287" height="730" alt="image" src="https://github.com/user-attachments/assets/109215ab-a16d-4903-a2c1-116179096d6b" />
 
 
 ## 🧠 Business Impact
